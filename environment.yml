@@ -1,0 +1,16 @@
+name: proyecto_avaluos
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.0
+  - pandas=2.2.0
+  - openpyxl=3.1.0
+  - numpy=1.26.0
+  - pyyaml=6.0.0
+  - scikit-learn=1.4.0
+  - jupyter=1.0.0
+  - ipykernel=6.29.0
+  - pyarrow=16.0.0
+  - imbalanced-learn=0.12.0
+  - bayesian-optimization=1.4.3
